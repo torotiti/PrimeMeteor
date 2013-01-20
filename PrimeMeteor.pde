@@ -191,10 +191,6 @@ class Enemy extends Update {
 
     if (py > EndLine + 6) {
       GameOver = true;
-
-      int s = score.score;
-      link("http://9leap.net/games/138/result/?score="+str(s)+
-           "&result=Score :" + str(s) + "<br>Thank you for your playing!");
     }
   }
 }
