@@ -1,7 +1,7 @@
 # PrimeMeteor
 
 ## What is PrimeMetor
-This programs is simple game for HTML5. This program is written by Processing.js.
+This program is simple game for HTML5 written by Processing.js.
 
 # How to play
 Please open index.html & tap message.
