@@ -1,6 +1,6 @@
 # PrimeMeteor
 
-## What is PrimeMetor
+## What is PrimeMeteor
 This program is simple game for HTML5 written by Processing.js.
 
 # How to play
